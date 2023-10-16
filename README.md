@@ -15,6 +15,6 @@ The best thing about React is how React-ive it is. In this lab you will create t
 ## How to run the app
 
 ```bash
-yarn
+npm install
 yarn dev
 ```
